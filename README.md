@@ -17,13 +17,13 @@ This **Power BI dashboard** explores maternity smoking trends across NHS regions
 ## **🖥️ Dashboard Screenshots**  
 
 ### **Dashboard Overview**  
-![Dashboard Overview](Screenshot%202025-01-16%20at%2012.16.59.jpeg)  
+![Dashboard Overview](NHSmokers1.png)  
 
 ### **Regional Smoking Comparisons**  
-![Regional Smoking Comparisons](Screenshot%202025-01-16%20at%2012.13.26.jpeg)  
+![Regional Smoking Comparisons](NHSmokers2.png)  
 
 ### **Key Findings and Recommendations**  
-![Key Findings and Recommendations](Screenshot%202025-01-16%20at%2012.14.27.jpeg)  
+![Key Findings and Recommendations](NHSmokers3.png)  
 
 ---
 
