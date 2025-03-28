@@ -1,20 +1,20 @@
 # **NHS Smoking Maternity Dashboard – Data Analysis & Policy Recommendations**  
 
-This **Power BI dashboard** analyses **smoking trends during maternity across NHS regions**, identifying key regional disparities, data inconsistencies, and areas for improvement. Using NHS data, this project provides a **comprehensive overview of smoking rates, highlights regional differences, and presents actionable recommendations** for healthcare policy improvements.
+This **Power BI dashboard** examines **smoking trends during maternity across NHS regions**, identifying key regional disparities, data inconsistencies, and areas for improvement. Using NHS data, the project provides a **comprehensive overview of smoking rates, highlights regional differences, and offers policy recommendations** to support improved maternal health outcomes.
 
 ---
 
-## 📊 **Project Overview**  
+## **Project Overview**  
 
-This **Power BI dashboard** explores maternity smoking trends across NHS regions, aiming to:  
-✔ **Compare regional smoking rates** to identify disparities.  
-✔ **Highlight data quality issues**, such as missing or unknown smoking statuses.  
-✔ **Provide actionable recommendations** to reduce smoking rates during pregnancy.  
-✔ **Assess socio-economic factors influencing regional variations in smoking trends.**  
+This dashboard explores maternity smoking trends across NHS regions with the aim to:  
+- ✅ **Compare regional smoking rates** and highlight disparities  
+- ✅ **Identify data quality issues**, including missing or unknown smoking statuses  
+- ✅ **Offer evidence-based recommendations** to reduce smoking during pregnancy  
+- ✅ **Evaluate socio-economic factors** influencing regional smoking trends  
 
 ---
 
-## **🖥️ Dashboard Screenshots**  
+## **Dashboard Screenshots**  
 
 ### **Dashboard Overview**  
 ![Dashboard Overview](NHSmokers1.png)  
@@ -27,125 +27,130 @@ This **Power BI dashboard** explores maternity smoking trends across NHS regions
 
 ---
 
-## 🛠 **Tools Used**  
+## 🪛 **Tools Used**  
 
-- **Power BI**: Data modelling, visualisation, and interactive dashboards.  
-- **Excel/CSV**: Data cleaning, preprocessing, and formatting.  
-- **DAX**: Advanced calculations, including **Weighted Smoking Rate Analysis**.  
-
----
-
-## 🔍 **Key Findings**  
-
-📌 **Highest percentage of smokers during maternity:**  
-✔ **Nottingham and Nottinghamshire (14.02%)** - The highest recorded rate across NHS regions.  
-✔ **Lincolnshire (12.92%)** and **North East & North Cumbria (12.08%)** also reported elevated smoking rates.  
-
-📌 **Significant ‘Smoking Status Unknown’ cases:**  
-✔ **Devon reported the highest unknown smoking status at 20.35%**, raising concerns about data collection reliability.  
-
-📌 **Regional disparities in smoking trends:**  
-✔ **The North East & Yorkshire had the highest percentage of smokers**, while **London recorded the lowest smoking rates**.  
-✔ **Cultural, socio-economic, and policy-related factors contribute to these disparities.**  
+- **Power BI** – Data modelling, visualisation, and dashboard design  
+- **Excel/CSV** – Data cleaning, preprocessing, and formatting  
+- **DAX** – Advanced calculations, including **Weighted Smoking Rate Analysis**  
 
 ---
 
-## **📊 Smoking and Maternity Report: Key Findings & Analysis**  
+## 🔬 **Key Findings**  
 
-### **1️⃣ Highest Percentage of Smokers: Nottingham and Nottinghamshire (14.02%)**  
-📌 **Possible Causes:**  
-- Socio-economic factors, including **lower household income** and **higher deprivation rates**.  
-- **Limited access to smoking cessation resources** compared to other regions.  
-- **Behavioural and cultural influences** that impact smoking habits.  
+**Highest reported smoking rates during maternity:**  
+- **Nottingham and Nottinghamshire (14.02%)**  
+- **Lincolnshire (12.92%)**  
+- **North East & North Cumbria (12.08%)**
 
-🚀 **Recommendations for Reducing Smoking in Nottinghamshire:**  
-✔ **Increase NHS funding for local smoking cessation programmes**.  
-✔ **Enhance public awareness campaigns on the risks of smoking during pregnancy**.  
-✔ **Improve accessibility to nicotine replacement therapies (NRTs) for expectant mothers**.  
-✔ **Incorporate smoking cessation support into routine maternity care visits**.  
+**Significant proportion of 'Smoking Status Unknown':**  
+- **Devon reported 20.35% unknown statuses**, indicating a need for better data quality
 
----
-
-### **2️⃣ High Number of ‘Smoking Status Unknown’ in Devon**  
-📌 **Key Finding:**  
-- **20.35% of cases in Devon had unknown smoking status**, significantly impacting the accuracy of maternity smoking data.  
-
-📌 **Possible Causes:**  
-- **Incomplete or inconsistent data entry** by healthcare professionals.  
-- **Expectant mothers unwilling to disclose smoking habits** due to social stigma.  
-- **Lack of standardised data collection protocols** across different NHS trusts.  
-
-🚀 **Recommendations to Improve Data Collection in Devon:**  
-✔ **Standardise NHS reporting protocols for smoking status during maternity care**.  
-✔ **Train healthcare professionals on better data collection techniques**.  
-✔ **Introduce a non-judgmental approach in consultations** to encourage honest disclosures.  
-✔ **Integrate electronic health records (EHRs) with mandatory smoking status fields**.  
+**Regional variation in smoking trends:**  
+- **North East & Yorkshire reported the highest rates**  
+- **London recorded the lowest**, suggesting more effective interventions  
+- Influenced by **socio-economic and cultural factors**  
 
 ---
 
-### **3️⃣ Regional Smoking Disparities: North East & Yorkshire vs. London**  
-📌 **Key Observations:**  
-- **The North East & Yorkshire had the highest percentage of smokers during maternity.**  
-- **London had the lowest overall percentage, indicating better smoking cessation support.**  
+## **Smoking and Maternity Report: Analysis and Recommendations**  
 
-📌 **Possible Causes of Disparities:**  
-- **Lower income levels and higher deprivation rates in Northern regions.**  
-- **Greater access to smoking cessation programmes and awareness campaigns in London.**  
-- **Cultural and behavioural differences influencing smoking habits.**  
+### **1. Highest Smoking Rates – Nottingham and Nottinghamshire (14.02%)**  
 
-🚀 **Policy Recommendations for Addressing Regional Disparities:**  
-✔ **Expand targeted public health campaigns in high-risk regions.**  
-✔ **Provide additional NHS support for pregnant women in deprived areas.**  
-✔ **Conduct case studies on successful smoking cessation initiatives in London and apply these strategies to high-smoking regions.**  
-✔ **Develop a nationwide NHS maternity smoking reduction strategy focusing on Nottinghamshire, the North East, and Yorkshire.**  
+**Contributing factors:**  
+- High deprivation and low income levels  
+- Limited access to cessation resources  
+- Cultural behaviours influencing smoking  
 
----
-
-## **📊 Data Science Enhancements for Future Analysis**  
-
-📌 **Key Data Issues Identified:**  
-✔ **Gaps in smoking status reporting affect trend accuracy.**  
-✔ **Lack of external socio-economic variables in smoking trend modelling.**  
-✔ **Absence of real-time data tracking for maternity smoking rates.**  
-
-🚀 **Future Data Science Improvements:**  
-✔ **Integrate machine learning models to predict high-risk maternity smoking cases.**  
-✔ **Use clustering techniques (K-Means, DBSCAN) to segment regions based on smoking trends.**  
-✔ **Enhance data collection methods using AI-driven survey analysis.**  
-✔ **Incorporate external socio-economic data for deeper insights.**  
-✔ **Automate reporting dashboards to ensure real-time updates on smoking trends.**  
+**Recommendations:**  
+- Boost local NHS funding for smoking cessation services  
+- Run targeted public health campaigns  
+- Improve access to nicotine replacement therapies (NRTs)  
+- Integrate cessation advice into routine maternity care  
 
 ---
 
-## 💰 **Policy Recommendations & Revenue Impact for NHS**  
+### **2. Data Completeness Issues – Devon**  
 
-🚀 **Estimated Reduction in Smoking Rates if Strategies Are Implemented:**  
-✔ **Targeted cessation programmes: 10%-15% decrease in high-risk regions.**  
-✔ **Improved data collection: 5%-8% more accurate smoking status reporting.**  
-✔ **Public awareness campaigns: Potential to reduce maternity smoking rates by 7%-12%.**  
+**Issue:**  
+- 20.35% of records had unknown smoking status  
 
-📌 **Impact on NHS Resources:**  
-✔ **Lower maternity complications related to smoking.**  
-✔ **Reduction in long-term healthcare costs associated with neonatal conditions.**  
-✔ **Better allocation of NHS funding based on more accurate data.**  
+**Causes may include:**  
+- Incomplete or inconsistent data entry  
+- Non-disclosure due to stigma  
+- Absence of standardised NHS protocols  
 
-📌 **Next Steps for NHS Implementation:**  
-✔ **Deploy pilot smoking cessation initiatives in Nottinghamshire & the North East.**  
-✔ **Standardise maternity data collection across all NHS trusts.**  
-✔ **Scale successful regional interventions to a national level.**  
-
----
-
-## 🚀 **Future Enhancements & Next Steps**  
-
-🔹 **Refine forecasting models using hybrid machine learning techniques**.  
-🔹 **Expand smoking cessation programme effectiveness analysis**.  
-🔹 **Develop interactive dashboards to provide real-time maternity smoking trends**.  
-🔹 **Integrate socio-economic indicators into smoking trend analysis**.  
-
-This project highlights how **data science, business intelligence, and policy-driven analytics** can shape **better healthcare decisions and improve maternity outcomes**.  
+**Recommendations:**  
+- Standardise data reporting processes  
+- Train healthcare staff in effective data collection  
+- Encourage open disclosure in a non-judgemental setting  
+- Mandate smoking status fields in digital health records  
 
 ---
 
-💡 **Interested in collaborating? Let’s connect!**  
-📧 [mashasesa@gmail.com](mailto:mashasesa@gmail.com) | 🌐 [LinkedIn](https://www.linkedin.com/in/mashaesa)  
+### **3. Regional Disparities – North East & Yorkshire vs. London**  
+
+**Observations:**  
+- Highest smoking rates in North East & Yorkshire  
+- Lowest rates in London, suggesting more robust support systems  
+
+**Potential causes:**  
+- Higher deprivation in northern regions  
+- Stronger health campaigns and support access in London  
+- Regional differences in cultural attitudes  
+
+**Recommendations:**  
+- Increase public health efforts in high-risk regions  
+- Provide additional support for pregnant women in deprived areas  
+- Study and replicate successful London-based interventions  
+- Establish a national NHS maternity smoking reduction framework  
+
+---
+
+## **Opportunities for Enhanced Data Science Approaches**  
+
+**Current challenges:**  
+- Missing or inconsistent smoking status data  
+- No integration of socio-economic variables  
+- Limited real-time monitoring  
+
+**Future enhancements:**  
+- Use machine learning to identify high-risk cases  
+- Apply clustering techniques (e.g. K-Means, DBSCAN)  
+- Incorporate AI-driven survey tools  
+- Merge with socio-economic datasets for deeper analysis  
+- Automate dashboard updates for live reporting  
+
+---
+
+## **Policy Impact & Financial Implications for the NHS**  
+
+**Projected outcomes if recommendations are implemented:**  
+- 10–15% reduction in smoking rates through targeted programmes  
+- 5–8% improvement in data accuracy  
+- 7–12% reduction via awareness campaigns  
+
+**NHS benefits:**  
+- Fewer pregnancy-related complications  
+- Lower long-term costs in neonatal care  
+- Improved resource allocation from better data  
+
+**Suggested next steps:**  
+- Pilot smoking reduction programmes in Nottinghamshire and the North East  
+- Implement consistent data protocols across NHS trusts  
+- Scale successful local strategies nationally  
+
+---
+
+## **Future Work and Development**  
+
+- Refine forecasting using hybrid machine learning models  
+- Analyse effectiveness of cessation programmes  
+- Build real-time interactive dashboards  
+- Integrate wider socio-economic indicators into analysis  
+
+This project highlights how **data science, business intelligence, and evidence-based policy** can support **better maternal health outcomes** across the UK.  
+
+---
+
+**Interested in collaborating or learning more?**  
+✉️ [mashasesa@gmail.com](mailto:mashasesa@gmail.com) | [LinkedIn](https://www.linkedin.com/in/mashaesa)
