@@ -14,9 +14,9 @@ This dashboard explores maternity smoking trends across NHS regions with the aim
 
 ---
 
-## **Dashboard Screenshots**  
+## **Report**  
 
-### **Dashboard Overview**  
+### **Overview**  
 ![Dashboard Overview](NHSmokers1.png)  
 
 ### **Regional Smoking Comparisons**  
