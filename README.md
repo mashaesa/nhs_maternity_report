@@ -7,10 +7,10 @@ This **Power BI dashboard** examines **smoking trends during maternity across NH
 ## **Project Overview**  
 
 This dashboard explores maternity smoking trends across NHS regions with the aim to:  
-- ✅ **Compare regional smoking rates** and highlight disparities  
-- ✅ **Identify data quality issues**, including missing or unknown smoking statuses  
-- ✅ **Offer evidence-based recommendations** to reduce smoking during pregnancy  
-- ✅ **Evaluate socio-economic factors** influencing regional smoking trends  
+- **Compare regional smoking rates** and highlight disparities  
+- **Identify data quality issues**, including missing or unknown smoking statuses  
+- **Offer evidence-based recommendations** to reduce smoking during pregnancy  
+- **Evaluate socio-economic factors** influencing regional smoking trends  
 
 ---
 
